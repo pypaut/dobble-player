@@ -13,3 +13,7 @@ cd dobble-player
 ```
 
 You can then present two Dobble cards to your webcam.
+
+# Author
+
+[Geoffrey](https://github.com/pypaut)
